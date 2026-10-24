@@ -28,7 +28,9 @@ O projeto nasceu de necessidades identificadas na minha rotina profissional e re
 - Configuração de alertas.
 - Autenticação com JWT.
 
-Atuo na definição dos requisitos, estruturação do banco de dados, desenvolvimento do backend e frontend, validação das funcionalidades e implantação em nuvem.
+Atuo na definição dos requisitos, estruturação do banco de dados, desenvolvimento do backend e frontend e validação das funcionalidades.
+
+O Compra360 já foi implantado no Google Cloud, utilizando Cloud Run e Cloud SQL durante o período de avaliação da plataforma. Atualmente, o sistema é executado e desenvolvido em ambiente local.
 
 [Acesse o repositório do Compra360](https://github.com/evertonoliveiralopes/dashboard-compras)
 
